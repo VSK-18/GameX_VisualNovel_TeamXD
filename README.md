@@ -1,1 +1,4 @@
 # GameX_VisualNovel_TeamXD
+
+As the game is more than 10gb , it cant be uploaded on github directly , so have uploaded pics. 
+this is the drive link for whole game.
